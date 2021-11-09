@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">DrinkWater</string>
+  <string name="input_text">Intervalo (min)</string>
+  <string name="button_start_ptBR">Iniciar</string>
+  <string name="pause">Pausar</string>
+  <string name="error">Campo não pode ser vazio.</string>
+</resources>
